@@ -1,7 +1,7 @@
 # Bot Commands
 PING_COMMAND : ["ping"]
-START_COMMAND : ["start"]
-HELP_COMMAND : ["help"]
+START_COMMAND : ["star"]
+HELP_COMMAND : ["ميوزك"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats"]
@@ -9,7 +9,7 @@ STATS_COMMAND : ["stats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
-PLAY_COMMAND : ["تشغيل","play", "fuck", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
+PLAY_COMMAND : ["تشغيل","شغل", "ق شغل", "vplay", "cplay", "فيديو", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
 PLAYMODE_COMMAND : ["playmode"]
 CHANNELPLAY_COMMAND : ["ربط","channelplay"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce"]
@@ -21,7 +21,7 @@ DELETEPLAYLIST_COMMAND : ["deleteplaylist"]
 
 # Tools
 QUEUE_COMMAND : ["queue","cqueue", "player", "cplayer", "playing", "cplaying"]
-SONG_COMMAND : ["تنزيل","song", "video", "vsong"]
+SONG_COMMAND : ["تنزيل","song", "بحث", "vsong"]
 LYRICS_COMMAND : ["lyrics"]
 
 
@@ -29,10 +29,10 @@ LYRICS_COMMAND : ["lyrics"]
 AUTH_COMMAND : ["مصادفة","auth"]
 UNAUTH_COMMAND : ["الغاء المصادفة","unauth"]
 AUTHUSERS_COMMAND : ["authusers"]
-PAUSE_COMMAND : ["مؤقت","pause", "cpause"]
-RESUME_COMMAND : ["استئناف","resume", "cresume"]
-MUTE_COMMAND : ["كتم","mute", "cmute"]
-UNMUTE_COMMAND : ["الغاء الكتم","unmute", "cunmute"]
+PAUSE_COMMAND : ["مؤقت","قف", "cpause"]
+RESUME_COMMAND : ["استئناف","واصل", "cresume"]
+MUTE_COMMAND : ["اسكت","mute", "cmute"]
+UNMUTE_COMMAND : ["اتكلم","unmute", "cunmute"]
 STOP_COMMAND : ["ايقاف","stop", "end", "cstop", "cend"]
 SKIP_COMMAND : ["تخطي","skip", "cskip"]
 SHUFFLE_COMMAND : ["shuffle", "cshuffle"]
