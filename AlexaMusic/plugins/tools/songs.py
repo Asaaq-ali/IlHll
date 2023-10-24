@@ -5,7 +5,7 @@ import os
 import requests
 import wget
 import yt_dlp
-from AlexaMusic.utils.command import command
+from strings.filters import command
 from pyrogram import Client, filters
 from AlexaMusic import app
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
